@@ -1,4 +1,4 @@
-name: HubSpot to Telegram Ticket Notifier
+name: HubSpot Notifier
 
 on:
   schedule:

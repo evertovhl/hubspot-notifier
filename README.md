@@ -1,4 +1,4 @@
-# HubSpot → Telegram Ticket Notifier
+# HubSpot Notifier
 
 Verifica a cada 5 minutos se há chamados (tickets) novos no HubSpot e envia um
 aviso para um chat/grupo do Telegram. Roda de graça no GitHub Actions
@@ -63,7 +63,7 @@ Crie:
 
 ### 6. Testar
 
-Vá em **Actions → HubSpot to Telegram Ticket Notifier → Run workflow** para
+Vá em **Actions → HubSpot Notifier → Run workflow** para
 disparar manualmente e conferir se chega a mensagem no Telegram. Depois disso
 ele roda solo a cada 5 minutos.
 
